@@ -1,0 +1,183 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+html{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.backG {
+    background-color: aliceblue;
+    border-radius: 16px;
+    padding: 2%;
+    height: 100em;
+    margin-top: 3%;
+    box-shadow: 10px 10px 5px #888888;
+}
+.barNav {
+    background: rgb(23,64,214);
+    background: linear-gradient(90deg, rgba(23,64,214,1) 0%, rgba(29,182,253,1) 48%, rgba(23,64,214,1) 100%);
+    width: 100%;
+    height: 1em;
+    margin-bottom: 1%;
+}
+nav {
+    background-color: aliceblue;
+    border-color: aqua;
+    border: 6px solid #89c6ff;
+    border-right: 0px;
+}
+body {
+    background-color: #565656;
+}
+footer {
+    background-color: rgb(47, 74, 197);
+    position: fixed;
+    bottom: 0%;
+    width: 90%;
+} 
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.partleft {
+    border-color: aqua;
+    border: 6px solid #89c6ff;
+    width: 100%;
+    overflow: hidden;
+}
+
+.partLeftInfo {
+    background-color: #565656;
+    text-align: left;
+    color: white;
+    padding-bottom: 5%;
+}
+.partLeftInfo p{
+    padding-left: 5%;
+}
+
+.partLeftInfo  h2{
+    text-align: center;
+}
+
+.barInfo {
+    background-color: white;
+    border-radius: 16px;
+    width: 80%;
+    height: 0.3em;
+    margin: 10%;
+}
+
+.barBody {
+    background-color: #565656;
+    width: 80%;
+    height: 0.6em;
+    margin-bottom: 5%;
+}
+
+body p {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.contImg {
+    background-position: center;
+    background-size: contain;
+    width: 100%;
+    height: 15em;
+}
+.card-title {
+    text-align: center;
+}
+.languages{
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 5px #888888;
+}
+.imgBar {
+    background-color: #565656;
+    width: 100%;
+    height: 0.4em;
+}
+.sectionsBody {
+    text-align: center;
+}
+
+.sectionsBody div{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #89c6ff;
+    height: 0.3em;
+}
+.redImages {
+    width: 2em;
+    background-size: cover;
+    height: 2em;
+}
+
+.redImages img {
+    vertical-align: super;
+    border-radius: 5%;
+}
+
+.experienceBody {
+    background-color: rgb(255, 255, 255);
+    border-radius: 16px;
+    height: 100%;
+    margin-top: 3%;
+    box-shadow: 10px 10px 5px #888888;
+    padding: 2%;
+}
+.experienceElement {
+    background-color: aliceblue;
+    border-radius: 16px;
+    padding: 2%;
+    margin-bottom: 3%;
+}
+
+.experienceImg {
+    width: 6em;
+    height: 6em;
+}
+
+footer {
+    background-color: rgb(65, 66, 70);
+    position: fixed;
+    bottom: 0%;
+    width: 90%;
+    padding: 1%;
+} 
+
+.contact {
+    text-align: right;
+    color: white;
+}
+
+.bodyEmail {
+    background-color: white;
+    padding: 1%;
+    border-radius: 16px;
+    text-align: center;
+}
+
+
+
+
+
+
+@media (min-width: 768px) { 
+
+}
+
+
+@media (min-width: 992px) { 
+
+}
+
+
+@media (min-width: 1200px) { 
+    
+}
